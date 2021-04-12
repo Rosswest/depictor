@@ -1,0 +1,1 @@
+cmd /k java -jar -server depictor-0.0.1-SNAPSHOT.jar
